@@ -1,0 +1,1 @@
+C:\Users\fh.TEKDATA\source\repos\Tekdata\MyCompanyClient\MyCompanyClient\MyCompanyClient.csproj;x64
